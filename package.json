@@ -1,0 +1,14 @@
+{
+  "name": "radcy-lodz-pl",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:xperios/radcy-lodz-pl.git",
+  "author": "Piotr Kosmowski <kospiotr@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "browser-sync start -s . -f ."
+  },
+  "dependencies": {
+    "browser-sync": "^2.27.10"
+  }
+}
